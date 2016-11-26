@@ -1,4 +1,4 @@
-package com.stdatalabs.hive.customInputFormat;
+package com.hive.customInputFormat;
 
 import java.io.IOException;
 import java.io.InputStream;
