@@ -19,11 +19,7 @@ import org.apache.hadoop.util.LineReader;
 
 /**
  * A record reader for splits generated HDFS blocks
- * 
- * More discussion at stdatalabs.blogspot.com
- * 
- * @author Sachin Thirumala
- *
+ * Govind Rajan
  */
 public class customRecordReader implements RecordReader<LongWritable, Text> {
 
